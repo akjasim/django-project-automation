@@ -53,7 +53,7 @@ create project_name project_directory private
 
 ## Example
 
-#### Create a project named "hello" in directory "D:\Django" as a private repository.
+#### Create a project named "hello" in directory "D:\Django" as a private repository with the following command in Command Prompt.
 ```bash
 create hello "D:\Django" private
 ```
