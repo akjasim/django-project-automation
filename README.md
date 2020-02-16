@@ -1,6 +1,6 @@
 # Django Project Automation
 
-This library helps Django developers get up and running as quickly as possible. You write just a single line of command and we'll automate the rest.
+This project helps Django developers get up and running as quickly as possible. You write just a single line of command and we'll automate the rest.
 1) Create a project directory.
 2) Create a new Django Project.
 3) Create a virtual environment.
