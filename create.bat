@@ -3,8 +3,7 @@ make_directory.py "%~1" "%~2"
 if %ERRORLEVEL% NEQ 200 (
     EXIT /B 1
 )
-D:
-cd %~2\%~1_project
+cd /d %~2\%~1_project
 echo Creating virtual environment...
 virtualenv venv
 django-admin startproject %~1
