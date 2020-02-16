@@ -27,11 +27,11 @@ git clone https://github.com/akjasim/django-project-automation.git
 pip install -r requirements.txt
 ```
 
-#### 3) Add project root directory into Windows System Variable Path so that you can access the script from anywhere. Google on 'how to set system path in windows', if you're not comfortable with.
+#### 3) Add project root directory into Windows System Variable Path so that you can access the script from anywhere in the PC. Google on 'how to set system path in windows', if you're not comfortable with it.
 
 #### 4) Add environment variables. Google 'how to add environment variable in windows', if you're not comfortable with it.
 
-##### Note: There are two pairs below and each pair consists of variable name and variable value.
+##### Note: There are two environment variables you have to set which is shown below and each pair consists of variable name and variable value.
 
 ```bash
 github_user  YOUR_GITHUB_USERNAME
